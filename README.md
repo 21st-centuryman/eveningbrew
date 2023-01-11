@@ -1,2 +1,2 @@
-# Evening Brew
+# Eveningbrew
 A gui for homebrew on MacOS
